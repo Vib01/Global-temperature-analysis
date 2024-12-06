@@ -37,3 +37,12 @@ The dataset contains global average temperature records spanning from 1889 to 20
 5. **Global Annual Temperature Trends of summers(June-August)**:☀
   -This visualization will provide us with trend of global temperature during summers that is June to August.
 ![image](https://github.com/user-attachments/assets/e6971ac7-2997-42cf-a6ad-5507ad377f3b)
+
+
+## Conclusion
+
+This analysis highlights an undeniable upward trend in global temperatures, affirming the evidence of climate change.A consistent rise in **annual average temperatures**, particularly after the 1970s.
+**Winters** have warmed significantly, reducing the seasonal contrast between winter and summer which cause risk of ice caps melting and not freezing during winter which is rising issue in northern west territories of Canada increasing cases of permafrost.
+Seasonal variability is becoming more pronounced, which may have ecological and economic implications. **Summers** have also drastically gotten warmer after 1980s which actively contribute in ice cap melting and environmental issues like frequent heat waves and irregular climate vents.
+Future analyses could  further improvement can be made by analyzing **carbon emissions analysis** which will help to analyse which factor is contributing most in carbon emissions throughout the globe and what actions can be taken to prevent it. This study shows the urgency for global initiatives to mitigate climate change and adapt to its impacts.
+
