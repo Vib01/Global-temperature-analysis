@@ -36,3 +36,4 @@ The dataset contains global average temperature records spanning from 1889 to 20
   
 5. **Global Annual Temperature Trends of summers(June-August)**:☀
   -This visualization will provide us with trend of global temperature during summers that is June to August.
+![image](https://github.com/user-attachments/assets/e6971ac7-2997-42cf-a6ad-5507ad377f3b)
